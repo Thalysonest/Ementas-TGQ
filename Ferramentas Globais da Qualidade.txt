@@ -1,0 +1,9 @@
+
+Utilização de varias ferramentas básicas simultaneamente e de maneira
+interligada. A importância das ferramentas da Qualidade para o monitoramento dos
+processos, para a análise de não-conformidade, assim que para a melhoria continua
+é amplificada nesta disciplina utilizando exemplos reais fazendo o paralelo com as
+exigências da ISO 9001 ou ISO TS: MASP (Método de Análise e Solução de
+Problema), 8D (8 Do’s), QRQC (Quick Reponse to Quality Control), DOE (Design of
+Experiments), QFD (Desdobramento das funções da Qualidade) e FMEA (Análise
+do efeito e modo de falhas).

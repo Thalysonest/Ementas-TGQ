@@ -1,0 +1,6 @@
+
+A importância do controle de processo; mensuração da variabilidade do processo;
+histogramas; características de distribuições a partir de tabela de frequência;
+características da distribuição normal; dispersão: interpretações, correlação,
+regressão, estratificação; cálculo e interpretação da capabilidade de processos;
+análise de processos.

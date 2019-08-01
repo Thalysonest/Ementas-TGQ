@@ -1,0 +1,7 @@
+
+A importância das ferramentas da Qualidade para o monitoramento dos
+processos, para a análise de não-conformidade, assim que para a melhoria continua
+é demonstrada nesta disciplina utilizando exemplos reais fazendo o paralelo com as
+exigências da ISO 9001: Benchmarking, Brainstorming e Diagrama de Afinidade,
+Ciclo PDCA, 5S, 5W2H, Diagrama de causa e efeito, (Ishikawa), Diagrama de Pareto
+(ABC), OEE.

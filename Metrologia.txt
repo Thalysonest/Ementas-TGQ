@@ -1,0 +1,5 @@
+
+Procedimentos gerais de medição. Erros e resultados da medição. Calibração e
+aferição. Controle geométrico. Tratamento Estatístico dos dados. Tolerâncias e
+Ajustes Instrumentos de medição para controle dimensional. Medição diferencial.
+Medição de ângulos.

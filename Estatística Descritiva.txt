@@ -1,0 +1,3 @@
+
+Fundamentos da estatística, representação em gráficos em tabelas, distribuição de
+frequência, medidas de posição, medidas de dispersão, técnicas de amostragem.

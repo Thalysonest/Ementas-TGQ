@@ -1,0 +1,4 @@
+
+As 6 principais representações das cartas de controle: visão geral e aplicações;
+cartas de controle para variáveis; cartas de controle para atributos; interpretações
+das cartas de controle; análise de processos; programação de cartas de controle.

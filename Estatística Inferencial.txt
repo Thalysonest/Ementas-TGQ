@@ -1,0 +1,4 @@
+
+Elementos de probabilidade, variáveis aleatórias discretas e contínuas, modelos
+de distribuição de probabilidade binomial e normal, distribuições amostrais, intervalo
+de confiança, testes de hipótese.

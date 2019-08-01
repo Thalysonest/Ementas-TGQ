@@ -1,0 +1,5 @@
+
+Conceito de produção; modelo de transformação. Tipos de operações de
+produção. Arranjo físico e fluxo. Previsões e gestão de demanda em produção e
+operações. Natureza do planejamento e controle. Planejamento e controle de
+capacidade. Gestão de filas e fluxo.
